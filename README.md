@@ -3,6 +3,7 @@ Projeto de um Sistema de Delivery para Hamburgueria, desenvolvido para automatiz
 
 Descrição do Projeto – Sistema de Delivery para Hamburgueria
 O projeto consiste no desenvolvimento de um Sistema de Delivery para uma Hamburgueria, com o objetivo de automatizar e otimizar todo o processo de pedidos, desde a escolha do lanche pelo cliente até a entrega final.
+
 A plataforma permitirá que os clientes realizem pedidos online de forma rápida, prática e intuitiva, escolhendo produtos do cardápio, personalizando hambúrgueres, selecionando formas de pagamento e acompanhando o status do pedido em tempo real.
 
 Para a hamburgueria, o sistema oferecerá um painel administrativo completo, possibilitando o gerenciamento de:
